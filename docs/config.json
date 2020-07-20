@@ -1,6 +1,6 @@
 {
   "additionalFooterText": "All content and images &copy; by Max Stanley&nbsp;",
-  "anchorCharacter": "#",
+  "anchorCharacter": "&para",
   "lineBreaks": "gfm",
   "title": "Max Stanley Docs",
   "useSideMenu": true           
