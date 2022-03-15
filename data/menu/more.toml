@@ -1,0 +1,5 @@
+[[more]]
+name = "View Source"
+ref = "https://github.com/maxstanley/docs.maxstanley.uk"
+external = true
+icon = "gdoc_github"
