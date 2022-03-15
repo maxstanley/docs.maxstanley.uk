@@ -20,6 +20,7 @@ jobs:
         with:
             node-version: '16'
             cache: 'npm'
+            cache-dependency-path: themes/hugo-geekdoc/package-lock.json
 
       - name: Install Geekdocs Theme
         working-directory: ./themes/hugo-geekdoc
