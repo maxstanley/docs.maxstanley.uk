@@ -1,0 +1,3 @@
+{{ $content := (os.ReadFile (.Get 1)) }}
+{{ $p := printf "%s" $content | printf "%s\n\n%s" (.Get 2) | printf "%s"}}
+{{ .Get 0 | highlight $p }}
